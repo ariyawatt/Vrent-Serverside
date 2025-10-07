@@ -14,8 +14,8 @@ services:
     environment:
       DB_HOST: db
       DB_PORT: "3306"
-      MYSQL_ROOT_PASSWORD: admin
-      MARIADB_ROOT_PASSWORD: admin
+      MYSQL_ROOT_PASSWORD: bR4Qx1DvFaB0FrTT
+      MARIADB_ROOT_PASSWORD: bR4Qx1DvFaB0FrTT
 
   configurator:
     image: frappe/erpnext:v15.81.1
